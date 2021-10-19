@@ -7,9 +7,7 @@ public class School {
 
     }
 
-    public void Pri(String a){
-        System.out.println(a);
-    }
+
 
 
 }
