@@ -58,6 +58,7 @@ public class HeroDao {
             if(heros[i]!=null&&heros[i].getId()==hero.getId()){//找到了
                 heros[i] = hero;
                 return true;
+
             }
         }
         return false;
