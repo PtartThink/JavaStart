@@ -6,7 +6,39 @@ public class Student {
     private String nameString;
     private int age;
 
-    public Student(){
+    public Student() {
+    }
+
+    public Student(int id, String nameString, int age) {
+        this.id = id;
+        this.nameString = nameString;
+        this.age = age;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getNameString() {
+        return nameString;
+    }
+
+    public void setNameString(String nameString) {
+        this.nameString = nameString;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+    /* public Student(){
         super();
     }
     public Student(int id,String nameString,int age){
@@ -37,6 +69,7 @@ public class Student {
 
     public void setNameString(String nameString) {
         this.nameString = nameString;
-    }
+    }*/
+
 
 }
