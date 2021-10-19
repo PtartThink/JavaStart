@@ -61,7 +61,7 @@ public class StudentDao {
     public Student getStudentByName(String name){
 
         for(int i = 0;i<studentsList.size();i++){
-            if (studentsList.get(i)!=null&& (studentsList.get(i).getName())==name){
+            if (studentsList.get(i)!=null&& (studentsList.get(i).getName()).equals(name)){
                 return studentsList.get(i);
 
             }

@@ -30,9 +30,9 @@ public class Team {
                     System.out.println("一览学生信息:");
                     List<Student> stu = dao.getAllStudent();
                     System.out.println("id\t姓名\t年龄");
-                    if(stu == null){
+                    /*if(stu == null){
                         System.out.println("没有数据！");
-                    }
+                    }*/
                     for(Student h :stu){
                         if (h!=null){
                             System.out.println(h.getId() + "\t" + h.getName() + "\t" + h.getAge());
