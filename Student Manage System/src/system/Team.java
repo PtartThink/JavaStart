@@ -34,9 +34,9 @@ public class Team {
                         System.out.println("没有数据！");
                     }*/
                     for(Student h :stu){
-                        if (h!=null){
+                        //if (h!=null){
                             System.out.println(h.getId() + "\t" + h.getName() + "\t" + h.getAge());
-                        }
+                        //}
                     }
                 }
                 case 2 ->{
