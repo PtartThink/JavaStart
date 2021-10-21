@@ -34,7 +34,8 @@ public class h1020game {
                         int PC;
                         int People;
 
-                        if((Math.abs(winPC - winPeople))>=3){
+                        //if((Math.abs(winPC - winPeople))>=3){
+                        if(winPC == 3||winPeople == 3){
                             break;
                         }
                         PC = ((random1.nextInt(3))+1);
@@ -65,7 +66,8 @@ public class h1020game {
                             System.out.println("PC出了布！");
                         }
 
-                        if((PC == 1&&People == 1)||(PC == 2&&People == 2)||(PC == 3&&People == 3)){
+                        //if((PC == 1&&People == 1)||(PC == 2&&People == 2)||(PC == 3&&People == 3)){
+                        if(PC == People){
                             System.out.println("这把平局！");
                         }else if ((PC == 1&&People == 2)||(PC == 2&&People == 3)||(PC == 3&&People == 1)){
                             System.out.println("PC赢了！");
@@ -91,9 +93,7 @@ public class h1020game {
 
                     System.out.println("欢迎继续游玩猜拳小游戏！");
                 }
-                case 2 ->{
-                    System.out.println("退出程序!");
-                }
+                case 2 -> System.out.println("退出程序!");
 
 
             }
