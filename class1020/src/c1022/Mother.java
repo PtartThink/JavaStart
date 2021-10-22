@@ -12,11 +12,11 @@ public class Mother {
     }
 
     //招女婿
-    public void getSubSon(double salary) throws Exception {
+    public void getSubSon(double salary) throws BoyfriendException {
         //女儿找男友的方法。
         try{
             girl.findBoyFriend(salary);
-        }catch(Exception e){
+        }catch(BoyfriendException e){
             if(salary<10000){
                 System.out.println("滚");
             }else{

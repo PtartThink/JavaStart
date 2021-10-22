@@ -14,7 +14,7 @@ public class Father {
     public void getSubSon(double salary){
         try {
             mother.getSubSon(salary);
-        }catch (Exception e){
+        }catch (BoyfriendException e){
             System.out.println("对你好就行");
         }
     }
