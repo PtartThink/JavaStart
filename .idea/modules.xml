@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Finish/Finish.iml" filepath="$PROJECT_DIR$/Finish/Finish.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Homework1011/Homework1011.iml" filepath="$PROJECT_DIR$/Homework1011/Homework1011.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Homework1017/Homework1017.iml" filepath="$PROJECT_DIR$/Homework1017/Homework1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALL/Finish/Finish.iml" filepath="$PROJECT_DIR$/ALL/Finish/Finish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALL/Homework/Homework.iml" filepath="$PROJECT_DIR$/ALL/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALL/Homework1011/Homework1011.iml" filepath="$PROJECT_DIR$/ALL/Homework1011/Homework1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALL/Homework1017/Homework1017.iml" filepath="$PROJECT_DIR$/ALL/Homework1017/Homework1017.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStart.iml" filepath="$PROJECT_DIR$/JavaStart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/Library Management System/Library Management System.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Perpetual Calendar/Perpetual Calendar.iml" filepath="$PROJECT_DIR$/Perpetual Calendar/Perpetual Calendar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Student Manage System/Student Manage System.iml" filepath="$PROJECT_DIR$/Student Manage System/Student Manage System.iml" />
-      <module fileurl="file://$PROJECT_DIR$/b2/b2.iml" filepath="$PROJECT_DIR$/b2/b2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALLSystem/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/ALLSystem/Library Management System/Library Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALLSystem/Perpetual Calendar/Perpetual Calendar.iml" filepath="$PROJECT_DIR$/ALLSystem/Perpetual Calendar/Perpetual Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALLSystem/Student Manage System/Student Manage System.iml" filepath="$PROJECT_DIR$/ALLSystem/Student Manage System/Student Manage System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALL/b2/b2.iml" filepath="$PROJECT_DIR$/ALL/b2/b2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class0930/class0930.iml" filepath="$PROJECT_DIR$/class0930/class0930.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1009/class1009.iml" filepath="$PROJECT_DIR$/class1009/class1009.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1012/class1012.iml" filepath="$PROJECT_DIR$/class1012/class1012.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1018/class1018.iml" filepath="$PROJECT_DIR$/class1018/class1018.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1020/class1020.iml" filepath="$PROJECT_DIR$/class1020/class1020.iml" />
       <module fileurl="file://$PROJECT_DIR$/class1025/class1025.iml" filepath="$PROJECT_DIR$/class1025/class1025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class1026/class1026.iml" filepath="$PROJECT_DIR$/class1026/class1026.iml" />
     </modules>
   </component>
 </project>
