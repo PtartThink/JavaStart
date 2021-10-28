@@ -21,6 +21,8 @@ public class AllDemo1 {
         fos.write(arr);
         fos.close();
 
+        fis.close();
+
 
 
     }
